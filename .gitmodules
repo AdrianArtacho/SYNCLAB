@@ -1,3 +1,6 @@
 [submodule "polytempo4live"]
 	path = polytempo4live
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/polytempo4live.git
+[submodule "transforms"]
+	path = transforms
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/transforms.git
