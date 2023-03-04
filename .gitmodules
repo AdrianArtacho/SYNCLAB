@@ -7,6 +7,3 @@
 [submodule "polytempoWeb"]
 	path = polytempoWeb
 	url = https://github.com/AdrianArtacho/polytempoWeb
-[submodule "polenium"]
-	path = polenium
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/polenium.git
