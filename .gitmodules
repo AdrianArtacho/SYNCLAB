@@ -43,3 +43,6 @@
 [submodule "FILES/poly_Verge_VLC"]
 	path = FILES/poly_Verge_VLC
 	url = https://github.com/AdrianArtacho/poly_Verge_VLC.git
+[submodule "FILES/poly_LetterPieceOne"]
+	path = FILES/poly_LetterPieceOne
+	url = https://github.com/AdrianArtacho/poly_LetterPieceOne.git
