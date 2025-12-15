@@ -28,3 +28,6 @@
 [submodule "FILES/poly_jetzt"]
 	path = FILES/poly_jetzt
 	url = https://github.com/AdrianArtacho/poly_jetzt.git
+[submodule "FILES/poly_tallis"]
+	path = FILES/poly_tallis
+	url = https://github.com/AdrianArtacho/poly_tallis.git
