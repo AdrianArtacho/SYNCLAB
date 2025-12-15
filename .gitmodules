@@ -13,3 +13,6 @@
 [submodule "polyWeb"]
 	path = polyWeb
 	url = https://github.com/philippekocher/polytempoWeb.git
+[submodule "FILES/poly_audiotest"]
+	path = FILES/poly_audiotest
+	url = https://github.com/AdrianArtacho/poly_audiotest.git
