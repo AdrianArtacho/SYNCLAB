@@ -79,3 +79,6 @@
 [submodule "FILES/poly_experiment5"]
 	path = FILES/poly_experiment5
 	url = https://github.com/AdrianArtacho/poly_experiment5.git
+[submodule "polyServer"]
+	path = polyServer
+	url = https://github.com/AdrianArtacho/polyServer.git
