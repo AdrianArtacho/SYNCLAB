@@ -55,3 +55,6 @@
 [submodule "FILES/poly_Synapse"]
 	path = FILES/poly_Synapse
 	url = https://github.com/AdrianArtacho/poly_Synapse.git
+[submodule "FILES/poly_InTouch_VLC"]
+	path = FILES/poly_InTouch_VLC
+	url = https://github.com/AdrianArtacho/poly_InTouch_VLC.git
