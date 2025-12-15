@@ -3,7 +3,7 @@
 	url = https://github.com/AdrianArtacho/synclab_poly4live.git
 [submodule "transforms"]
 	path = transforms
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/transforms.git
+	url = https://github.com/AdrianArtacho/synclab_transForms.git
 [submodule "polytempoWeb"]
 	path = polytempoWeb
 	url = https://github.com/AdrianArtacho/polytempoWeb
