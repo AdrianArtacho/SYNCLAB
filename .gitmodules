@@ -34,3 +34,6 @@
 [submodule "FILES/poly_exampleproject"]
 	path = FILES/poly_exampleproject
 	url = https://github.com/AdrianArtacho/poly_exampleproject.git
+[submodule "FILES/poly_Verge_KEY"]
+	path = FILES/poly_Verge_KEY
+	url = https://github.com/AdrianArtacho/poly_Verge_KEY.git
