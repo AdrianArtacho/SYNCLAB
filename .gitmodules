@@ -58,3 +58,6 @@
 [submodule "FILES/poly_InTouch_VLC"]
 	path = FILES/poly_InTouch_VLC
 	url = https://github.com/AdrianArtacho/poly_InTouch_VLC.git
+[submodule "FILES/poly_InTouch_SAX"]
+	path = FILES/poly_InTouch_SAX
+	url = https://github.com/AdrianArtacho/poly_InTouch_SAX.git
