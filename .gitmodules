@@ -31,3 +31,6 @@
 [submodule "FILES/poly_tallis"]
 	path = FILES/poly_tallis
 	url = https://github.com/AdrianArtacho/poly_tallis.git
+[submodule "FILES/poly_exampleproject"]
+	path = FILES/poly_exampleproject
+	url = https://github.com/AdrianArtacho/poly_exampleproject.git
