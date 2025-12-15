@@ -52,3 +52,6 @@
 [submodule "FILES/poly_PulseIntervals_SAX"]
 	path = FILES/poly_PulseIntervals_SAX
 	url = https://github.com/AdrianArtacho/poly_PulseIntervals_SAX.git
+[submodule "FILES/poly_Synapse"]
+	path = FILES/poly_Synapse
+	url = https://github.com/AdrianArtacho/poly_Synapse.git
