@@ -10,3 +10,6 @@
 [submodule "polenium"]
 	path = polenium
 	url = https://github.com/AdrianArtacho/synclab_polenium.git
+[submodule "polyWeb"]
+	path = polyWeb
+	url = https://github.com/philippekocher/polytempoWeb.git
