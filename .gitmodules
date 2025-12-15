@@ -49,3 +49,6 @@
 [submodule "FILES/poly_PulseIntervals_VLC"]
 	path = FILES/poly_PulseIntervals_VLC
 	url = https://github.com/AdrianArtacho/poly_PulseIntervals_VLC.git
+[submodule "FILES/poly_PulseIntervals_SAX"]
+	path = FILES/poly_PulseIntervals_SAX
+	url = https://github.com/AdrianArtacho/poly_PulseIntervals_SAX.git
