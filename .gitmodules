@@ -46,3 +46,6 @@
 [submodule "FILES/poly_LetterPieceOne"]
 	path = FILES/poly_LetterPieceOne
 	url = https://github.com/AdrianArtacho/poly_LetterPieceOne.git
+[submodule "FILES/poly_PulseIntervals_VLC"]
+	path = FILES/poly_PulseIntervals_VLC
+	url = https://github.com/AdrianArtacho/poly_PulseIntervals_VLC.git
