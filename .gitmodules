@@ -1,6 +1,3 @@
-[submodule "transforms"]
-	path = transforms
-	url = https://github.com/AdrianArtacho/synclab_transForms.git
 [submodule "polytempoWeb"]
 	path = polytempoWeb
 	url = https://github.com/AdrianArtacho/polytempoWeb
@@ -70,3 +67,6 @@
 [submodule "polyServer"]
 	path = polyServer
 	url = https://github.com/AdrianArtacho/polyServer.git
+[submodule "TransForms"]
+	path = TransForms
+	url = https://github.com/AdrianArtacho/synclab_transForms.git
