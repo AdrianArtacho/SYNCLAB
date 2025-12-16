@@ -1,6 +1,3 @@
-[submodule "polytempo4live"]
-	path = polytempo4live
-	url = https://github.com/AdrianArtacho/synclab_poly4live.git
 [submodule "transforms"]
 	path = transforms
 	url = https://github.com/AdrianArtacho/synclab_transForms.git
