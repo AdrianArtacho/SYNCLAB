@@ -73,3 +73,6 @@
 [submodule "FILES/Tallis/poly_tallis_backup"]
 	path = FILES/Tallis/poly_tallis_backup
 	url = https://github.com/AdrianArtacho/poly_tallis_backup.git
+[submodule "TIMEKEEP/timekeep"]
+	path = TIMEKEEP/timekeep
+	url = https://github.com/AdrianArtacho/teach_timekeep.git
