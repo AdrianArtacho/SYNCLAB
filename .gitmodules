@@ -34,12 +34,6 @@
 [submodule "FILES/poly_Synapse"]
 	path = FILES/poly_Synapse
 	url = https://github.com/AdrianArtacho/poly_Synapse.git
-[submodule "FILES/poly_InTouch_VLC"]
-	path = FILES/poly_InTouch_VLC
-	url = https://github.com/AdrianArtacho/poly_InTouch_VLC.git
-[submodule "FILES/poly_InTouch_SAX"]
-	path = FILES/poly_InTouch_SAX
-	url = https://github.com/AdrianArtacho/poly_InTouch_SAX.git
 [submodule "FILES/poly_tallis_backup"]
 	path = FILES/poly_tallis_backup
 	url = https://github.com/AdrianArtacho/poly_tallis_backup.git
@@ -73,3 +67,9 @@
 [submodule "FILES/tests/poly_experiment5"]
 	path = FILES/tests/poly_experiment5
 	url = https://github.com/AdrianArtacho/poly_experiment5.git
+[submodule "FILES/InTouch/poly_InTouch_SAX"]
+	path = FILES/InTouch/poly_InTouch_SAX
+	url = https://github.com/AdrianArtacho/poly_InTouch_SAX.git
+[submodule "FILES/InTouch/poly_InTouch_VLC"]
+	path = FILES/InTouch/poly_InTouch_VLC
+	url = https://github.com/AdrianArtacho/poly_InTouch_VLC.git
