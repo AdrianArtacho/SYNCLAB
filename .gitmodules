@@ -35,7 +35,7 @@
 	path = FILES/poly_mut0
 	url = https://github.com/AdrianArtacho/poly_mut0.git
 [submodule "FILES/poly_Multitudes"]
-	path = FILES/poly_Multitudes
+	path = FILES/Multitudes/poly_Multitudes
 	url = https://github.com/AdrianArtacho/poly_Multitudes.git
 [submodule "polyServer"]
 	path = polyServer
