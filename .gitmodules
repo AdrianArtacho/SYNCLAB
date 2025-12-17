@@ -73,3 +73,6 @@
 [submodule "FILES/Verge/poly_Verge_VLC"]
 	path = FILES/Verge/poly_Verge_VLC
 	url = https://github.com/AdrianArtacho/poly_Verge_VLC.git
+[submodule "FILES/Tallis/poly_tallis"]
+	path = FILES/Tallis/poly_tallis
+	url = https://github.com/AdrianArtacho/poly_tallis.git
