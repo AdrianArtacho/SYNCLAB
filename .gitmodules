@@ -1,9 +1,6 @@
 [submodule "polytempoWeb"]
 	path = polytempoWeb
 	url = https://github.com/AdrianArtacho/polytempoWeb
-[submodule "FILES/poly_tallis"]
-	path = FILES/poly_tallis
-	url = https://github.com/AdrianArtacho/poly_tallis.git
 [submodule "FILES/poly_tallis_backup"]
 	path = FILES/poly_tallis_backup
 	url = https://github.com/AdrianArtacho/poly_tallis_backup.git
