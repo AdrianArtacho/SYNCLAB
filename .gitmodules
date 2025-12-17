@@ -16,12 +16,6 @@
 [submodule "FILES/poly_Verge_VLC"]
 	path = FILES/poly_Verge_VLC
 	url = https://github.com/AdrianArtacho/poly_Verge_VLC.git
-[submodule "FILES/poly_PulseIntervals_VLC"]
-	path = FILES/poly_PulseIntervals_VLC
-	url = https://github.com/AdrianArtacho/poly_PulseIntervals_VLC.git
-[submodule "FILES/poly_PulseIntervals_SAX"]
-	path = FILES/poly_PulseIntervals_SAX
-	url = https://github.com/AdrianArtacho/poly_PulseIntervals_SAX.git
 [submodule "FILES/poly_Synapse"]
 	path = FILES/poly_Synapse
 	url = https://github.com/AdrianArtacho/poly_Synapse.git
@@ -73,3 +67,9 @@
 [submodule "FILES/Mut/poly_mut0"]
 	path = FILES/Mut/poly_mut0
 	url = https://github.com/AdrianArtacho/poly_mut0.git
+[submodule "FILES/PulseIntervals/poly_PulseIntervals_SAX"]
+	path = FILES/PulseIntervals/poly_PulseIntervals_SAX
+	url = https://github.com/AdrianArtacho/poly_PulseIntervals_SAX.git
+[submodule "FILES/PulseIntervals/poly_PulseIntervals_VLC"]
+	path = FILES/PulseIntervals/poly_PulseIntervals_VLC
+	url = https://github.com/AdrianArtacho/poly_PulseIntervals_VLC.git
