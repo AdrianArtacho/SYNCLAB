@@ -13,9 +13,6 @@
 [submodule "FILES/poly_tallis"]
 	path = FILES/poly_tallis
 	url = https://github.com/AdrianArtacho/poly_tallis.git
-[submodule "FILES/poly_exampleproject"]
-	path = FILES/poly_exampleproject
-	url = https://github.com/AdrianArtacho/poly_exampleproject.git
 [submodule "FILES/poly_Verge_KEY"]
 	path = FILES/poly_Verge_KEY
 	url = https://github.com/AdrianArtacho/poly_Verge_KEY.git
@@ -43,12 +40,6 @@
 [submodule "FILES/poly_InTouch_SAX"]
 	path = FILES/poly_InTouch_SAX
 	url = https://github.com/AdrianArtacho/poly_InTouch_SAX.git
-[submodule "FILES/poly_dis15a"]
-	path = FILES/poly_dis15a
-	url = https://github.com/AdrianArtacho/poly_dis15a.git
-[submodule "FILES/poly_dis15b"]
-	path = FILES/poly_dis15b
-	url = https://github.com/AdrianArtacho/poly_dis15b.git
 [submodule "FILES/poly_tallis_backup"]
 	path = FILES/poly_tallis_backup
 	url = https://github.com/AdrianArtacho/poly_tallis_backup.git
@@ -58,9 +49,6 @@
 [submodule "FILES/poly_Multitudes"]
 	path = FILES/poly_Multitudes
 	url = https://github.com/AdrianArtacho/poly_Multitudes.git
-[submodule "FILES/poly_experiment5"]
-	path = FILES/poly_experiment5
-	url = https://github.com/AdrianArtacho/poly_experiment5.git
 [submodule "polyServer"]
 	path = polyServer
 	url = https://github.com/AdrianArtacho/polyServer.git
@@ -73,3 +61,15 @@
 [submodule "FILES/tests/poly_audiotest"]
 	path = FILES/tests/poly_audiotest
 	url = https://github.com/AdrianArtacho/poly_audiotest.git
+[submodule "FILES/disarray/poly_dis15a"]
+	path = FILES/disarray/poly_dis15a
+	url = https://github.com/AdrianArtacho/poly_dis15a.git
+[submodule "FILES/disarray/poly_dis15b"]
+	path = FILES/disarray/poly_dis15b
+	url = https://github.com/AdrianArtacho/poly_dis15b.git
+[submodule "FILES/tests/poly_exampleproject"]
+	path = FILES/tests/poly_exampleproject
+	url = https://github.com/AdrianArtacho/poly_exampleproject.git
+[submodule "FILES/tests/poly_experiment5"]
+	path = FILES/tests/poly_experiment5
+	url = https://github.com/AdrianArtacho/poly_experiment5.git
