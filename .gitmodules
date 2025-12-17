@@ -73,3 +73,6 @@
 [submodule "FILES/Showing/poly_Showing"]
 	path = FILES/Showing/poly_Showing
 	url = https://github.com/AdrianArtacho/poly_Showing.git
+[submodule "FILES/tests/poly_audiotest"]
+	path = FILES/tests/poly_audiotest
+	url = https://github.com/AdrianArtacho/poly_audiotest.git
