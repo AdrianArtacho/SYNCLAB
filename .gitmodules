@@ -4,9 +4,6 @@
 [submodule "FILES/poly_tallis"]
 	path = FILES/poly_tallis
 	url = https://github.com/AdrianArtacho/poly_tallis.git
-[submodule "FILES/poly_Verge_SAX"]
-	path = FILES/poly_Verge_SAX
-	url = https://github.com/AdrianArtacho/poly_Verge_SAX.git
 [submodule "FILES/poly_Verge_VLC"]
 	path = FILES/poly_Verge_VLC
 	url = https://github.com/AdrianArtacho/poly_Verge_VLC.git
@@ -73,3 +70,6 @@
 [submodule "FILES/Verge/poly_Verge_KEY"]
 	path = FILES/Verge/poly_Verge_KEY
 	url = https://github.com/AdrianArtacho/poly_Verge_KEY.git
+[submodule "FILES/Verge/poly_Verge_SAX"]
+	path = FILES/Verge/poly_Verge_SAX
+	url = https://github.com/AdrianArtacho/poly_Verge_SAX.git
