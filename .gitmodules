@@ -82,3 +82,6 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/AdrianArtacho/git_tools.git
+[submodule "TIMEKEEP/VotingResults"]
+	path = TIMEKEEP/VotingResults
+	url = https://github.com/AdrianArtacho/voting_results.git
