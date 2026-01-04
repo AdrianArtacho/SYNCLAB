@@ -79,3 +79,6 @@
 [submodule "TIMEKEEP/SHOWING"]
 	path = TIMEKEEP/SHOWING
 	url = https://github.com/AdrianArtacho/SHOWING.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/AdrianArtacho/git_tools.git
