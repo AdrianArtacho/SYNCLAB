@@ -133,6 +133,6 @@ This repository and its submodules are made available under terms defined in the
 
 ## 📬 **Contact**
 
-Maintained by **Adrián Artacho**, artist/researcher focused on **action scores, distributed performance, and artistic research experiments**.
+Maintained by [**Adrián Artacho**](https://www.artacho.at/research/), artist/researcher focused on **action scores, distributed performance, and artistic research experiments**.
 For questions, insights, or collaborations, use GitHub discussions or open an issue.
 [1]: ["README Best Practices"](https://www.tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/readme-best-practices)
